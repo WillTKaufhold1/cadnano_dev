@@ -1,5 +1,8 @@
 # Cadnano2 DNA Origami Software (PyQt5 port)
 
+## This is the location of my (Will Kaufhold) changes to Cadnano2
+Mostly we want to work with non-scaffold based origami, so exporting all sequences, including that of what Cadnano thinks is a scaffold is pretty important... have made the change to accomodate this.
+
 ## Overview
 [Cadnano](http://cadnano.org/) is computer-aided design software for DNA origami nanostructures. The original citation is [here](https://academic.oup.com/nar/article/37/15/5001/2409858).
 
